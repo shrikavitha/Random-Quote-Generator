@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+#main{
+  background-image:url("https://pngtree.com/free-backgrounds");
+  margin:0px 00px 00px 00px;
+   padding: 10px 10px 10px 10px; 
+  border-width: 2px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(255, 255, 255); 
+  font-family: cursive;
+  margin-right: 9%;
+  margin-left: 9%;
+}
+#out{
+  background-image: url("https://png.pngtree.com/background/20210712/original/pngtree-abstract-modern-neon-frame-background-picture-image_1178251.jpg");
+  background-size: cover;
+  height: 30%;
+  width: 100%;
+  /* padding: 15%; */
+  padding-top: 8%;
+  padding-bottom: 4%;
+  padding-right: 12%;
+  padding-left: 12%;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+.twitter-button{
+  background:aqua;
+}
+.twitter-button:hover {
+  color: #38a1f3;
+  filter: brightness(120%);
+}
+  
+
+#h{
+  padding: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 50px;
+  font-size: 40px;
+  color: white;
+
+}
+#b{
+  padding:30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  font-style: inherit;
+  color:aqua
+}
